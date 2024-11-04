@@ -1,0 +1,33 @@
+# Jupyter Notebook output
+*.ipynb_checkpoints
+*.nbconvert*
+*.pyc
+__pycache__/
+*.ipynb-*
+
+# Development environment files
+.devcontainer/
+*.devcontainer.json
+
+# Python environment files
+*.egg-info/
+*.egg
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files (optional, include if you don't want to track data)
+data/*.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project

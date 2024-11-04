@@ -1,0 +1,13 @@
+{
+    "name": "DevContainer-aai501",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {
+        "python.pythonPath": "/usr/local/bin/python"
+    },
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ]
+}
