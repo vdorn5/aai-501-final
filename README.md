@@ -39,11 +39,16 @@ Follow these steps to set up your development environment using a devcontainer:
 
 
 ## To-Do List
-- [ ] Finish lit review.
-- [ ] Finalize project scope and objectives.
+- [X] Finish lit review.
+- [X] Finalize project scope and objectives.
 - [X] Set up the development environment with all necessary dependencies.
+- [X] Finish extraction and exploratory data analysis.
+- [X] Train model.
+- [ ] Trouble shoot gpu setup and memory capacity. 
+- [X] Evaluate model
 
 ### Team Information
 
 - Applied Artifical Inteligence 501
 - Group Number: 3
+- Individual Project

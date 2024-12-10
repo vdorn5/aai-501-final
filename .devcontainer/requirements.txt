@@ -1,2 +1,10 @@
 ipykernel
 minio
+pandas
+matplot
+seaborn
+librosa
+transformers
+datasets
+pickleshare
+torch
